@@ -2,3 +2,24 @@
     margin: 0%;
     padding: 0;
 }
+
+.intro-wrapper {
+    background-image: url("../img/intro-bg.jpg"); /* The image used */
+    background-color: #cccccc; /* Used if the image is unavailable */
+    height: auto; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+  }
+  .form-wrapper {
+	background: #ddd;
+}
+.my-btn {
+	width: 100%;
+}
+.top-dialog {
+	text-align: center;
+	color: #fff;
+	padding: 20px;
+}
+.pdf-img img{width: 100%;}
